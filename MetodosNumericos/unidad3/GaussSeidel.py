@@ -64,6 +64,13 @@ def main():
         matriz.append(auxiliar)
         print()
 
+    # Insertar datos originales del método a la tabla
+    auxiliar = [nc]
+    for i in range(orden):
+        auxiliar.append(valorAnterior[i])
+    auxiliar.append(0)
+    output.append(auxiliar)
+
     # Ciclo para el método Gauss Seidel
     while errorTotal > error and nc < tc:
         errorTotal = 0
@@ -121,7 +128,7 @@ def main():
         print("Resultados")
 
         for p in range(orden):
-            print(f"{concepto[p]} = {valorActual[p]} {unidad[p]}")
+            print(f"{concepto[p]} = {round(valorActual[p], 6)} {unidad[p]}")
     else:
         print("El proceso superó los cálculos y por lo tanto no se encontraron resultados")
 
