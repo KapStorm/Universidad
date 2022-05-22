@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b2db3ea-44b4-4fe8-ada8-44257d056345" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26rFYuNJTdG5hSZFrArVcB9bN4x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sebastian\IdeaProjects\Graficacion" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Graficacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b2db3ea-44b4-4fe8-ada8-44257d056345" name="Changes" comment="" />
+      <created>1648173852538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648173852538</updated>
+      <workItem from="1648173852540" duration="8203000" />
+      <workItem from="1648239639317" duration="12111000" />
+      <workItem from="1648277524847" duration="409000" />
+      <workItem from="1648331362825" duration="11974000" />
+      <workItem from="1648416106297" duration="1247000" />
+      <workItem from="1648423700356" duration="2348000" />
+      <workItem from="1648448536617" duration="4844000" />
+      <workItem from="1648523103178" duration="626000" />
+      <workItem from="1648761197598" duration="684000" />
+      <workItem from="1648761906923" duration="14693000" />
+      <workItem from="1648854681618" duration="11949000" />
+      <workItem from="1648953933443" duration="3307000" />
+      <workItem from="1649042344180" duration="5216000" />
+      <workItem from="1649051353616" duration="1189000" />
+      <workItem from="1649121213912" duration="2669000" />
+      <workItem from="1649124100896" duration="7645000" />
+      <workItem from="1649211622106" duration="4179000" />
+      <workItem from="1649225023350" duration="311000" />
+      <workItem from="1649287658560" duration="10367000" />
+      <workItem from="1649382178029" duration="719000" />
+      <workItem from="1649450618254" duration="5703000" />
+      <workItem from="1649553892904" duration="830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
