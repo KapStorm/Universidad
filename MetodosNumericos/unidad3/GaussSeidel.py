@@ -8,6 +8,7 @@ def imprimir_encabezado():
     print("Ing. en Sistemas Computacionales\n".rjust(41, " "))
 
     print("Arellanes Beltrán Sebastián")
+    print("Corrales Macías Emmanuel")
     print("Solución de sistemas de ecuaciones")
     print("Método de Gauss Seidel")
     print("10:00 a 11:00 horas\n")
