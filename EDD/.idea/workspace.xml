@@ -4,16 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9952fb1a-3c1c-40fa-9edb-6c7b0f9081df" name="Changes" comment="" />
+    <list default="true" id="9952fb1a-3c1c-40fa-9edb-6c7b0f9081df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad4/examen/Cola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad4/examen/ExamenCola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad4/examen/ExamenLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad4/examen/ExamenPila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad4/examen/ListaOrdenada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad4/examen/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unidad4/examen/Pila.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2982uNYGvvIp1pN9D2IMaVFWMRO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,15 +43,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/unidad4/examen" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sebastian\workspace\Universidad\EDD\src\unidad4\examen" />
+      <recent name="C:\Users\Sebastian\workspace\Universidad\EDD\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sebastian\workspace\Universidad\EDD\src\unidad4\examen" />
       <recent name="C:\Users\Sebastian\workspace\Universidad\EDD\src\unidad4\arbol" />
       <recent name="C:\Users\Sebastian\workspace\Universidad\EDD\src\unidad4" />
       <recent name="C:\Users\Sebastian\workspace\Universidad\EDD\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="unidad4.examen" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ExamenLista">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unidad4.arbol.App" />
       <module name="EDD" />
@@ -37,8 +69,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExamenCola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unidad4.examen.ExamenCola" />
+      <module name="EDD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamenLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unidad4.examen.ExamenLista" />
+      <module name="EDD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamenPila" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unidad4.examen.ExamenPila" />
+      <module name="EDD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExamenLista" />
+        <item itemvalue="Application.ExamenPila" />
+        <item itemvalue="Application.ExamenCola" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -53,7 +109,20 @@
       <updated>1652480614169</updated>
       <workItem from="1652480615674" duration="2571000" />
       <workItem from="1652928788393" duration="5304000" />
+      <workItem from="1653189400754" duration="110000" />
+      <workItem from="1653670612488" duration="6133000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
