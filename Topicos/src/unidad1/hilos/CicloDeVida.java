@@ -23,10 +23,10 @@ public class CicloDeVida extends Thread {
             System.out.println("Acumulado: " + total);
 
             // Es necesario el try/catch para el metodo sleep
-            // ya que es tiene como throweable la excepción
+            // ya que este tiene como throweable la excepción
             // InterruptedException
             try {
-                // El metodo wait() hace que
+                // El metodo sleep() hace que
                 // el hilo 'duerme' durante un tiempo
                 // en micro segundos (ms)
                 sleep(tiempoDeEspera);
@@ -41,11 +41,11 @@ public class CicloDeVida extends Thread {
         System.out.print("¿Cuanto tiempo desea que el hilo espere entre suma (ms)? ");
         int tiempoDeEspera = in.nextInt();
 
-        // Instanciacion de la clase Hilo e inicio de su
-        // ejecucion
         System.out.print("¿Desea que el main espere al hilo (S/N)? ");
         char respuesta = in.next().charAt(0);
 
+        // Instanciacion de la clase Hilo e inicio de su
+        // ejecucion
         CicloDeVida hilo = new CicloDeVida(tiempoDeEspera);
         hilo.start();
 
