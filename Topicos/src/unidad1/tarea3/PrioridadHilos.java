@@ -15,7 +15,7 @@ public class PrioridadHilos extends Thread {
     @Override
     public void run() {
         System.out.printf("%s iniciado\n", this.getName());
-        while (!stop && contar < 1_000_000) {
+        while (!stop && contar < 10_000_000) {
             contar++;
             if (actualNombre.compareTo(this.getName()) != 0) {
                 actualNombre = this.getName();
