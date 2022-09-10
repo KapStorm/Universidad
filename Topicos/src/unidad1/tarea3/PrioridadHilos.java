@@ -4,11 +4,11 @@ public class PrioridadHilos extends Thread {
     int contar;
 
     static boolean stop = false;
-    String actualNombre;
+    static String actualNombre;
 
     public PrioridadHilos(String nombre) {
         super(nombre);
-        this.actualNombre = nombre;
+        actualNombre = nombre;
         contar = 0;
     }
 
