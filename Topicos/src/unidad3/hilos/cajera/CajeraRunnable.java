@@ -1,4 +1,4 @@
-package unidad1.hilos.cajera;
+package unidad3.hilos.cajera;
 
 public class CajeraRunnable implements Runnable {
     private Clientes cliente;

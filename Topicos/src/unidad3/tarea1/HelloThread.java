@@ -1,4 +1,4 @@
-package unidad1.tarea1;
+package unidad3.tarea1;
 
 public class HelloThread implements Runnable {
     private String nombre;

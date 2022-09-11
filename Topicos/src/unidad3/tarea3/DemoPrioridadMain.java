@@ -1,4 +1,4 @@
-package unidad1.tarea3;
+package unidad3.tarea3;
 
 public class DemoPrioridadMain {
     public static void main(String[] args) {

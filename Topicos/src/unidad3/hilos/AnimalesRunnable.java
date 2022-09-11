@@ -1,4 +1,4 @@
-package unidad1.hilos;
+package unidad3.hilos;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package unidad1.tarea3;
+package unidad3.tarea3;
 
 public class PrioridadHilos extends Thread {
     int contar;

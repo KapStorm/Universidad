@@ -1,14 +1,12 @@
-package unidad1.hilos;
+package unidad3.hilos;
 
 import java.util.Scanner;
 
-import static java.lang.Thread.sleep;
-
-public class AtletaRunnable implements Runnable {
+public class AtletaHilos extends Thread {
     Scanner in;
     String nombre;
 
-    public AtletaRunnable() {
+    public AtletaHilos() {
         in = new Scanner(System.in);
     }
 
@@ -30,9 +28,9 @@ public class AtletaRunnable implements Runnable {
     }
 
     public static void main(String[] args) {
-        Thread eje = new Thread(new AtletaHilos());
+        AtletaHilos eje = new AtletaHilos();
         eje.start();
-        Thread eje2 = new Thread(new AtletaHilos());
+        AtletaHilos eje2 = new AtletaHilos();
         eje2.start();
     }
 }
