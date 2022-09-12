@@ -1,19 +1,23 @@
 package unidad3.hilos.autos;
 
 public class CarrilDeLavadoRunnable implements Runnable {
+    // Atributos
     private String vehiculo;
     private long init;
 
+    // Constructor
     public CarrilDeLavadoRunnable(String auto, long init) {
         this.vehiculo = auto;
         this.init = init;
     }
 
+    // Sobreescritura del metodo runnable
     @Override
     public void run() {
         float precio;
         int tiempo;
 
+        // Dependiendo del vehiculo el tiempo y el precio van a variar
         switch (vehiculo) {
             case "Moto":
                 precio = 35f;
@@ -36,11 +40,14 @@ public class CarrilDeLavadoRunnable implements Runnable {
                 tiempo = 8;
         }
 
+        // Impresion previo del tiempo de espera
         System.out.printf("%s lavando el vehiculo %s con coste $%.2f -> Tiempo transcurrido: %d seg\n",
                 Thread.currentThread().getName(), vehiculo, precio, (System.currentTimeMillis() - init) / 1000);
 
+        // Metodo para el tiempo de espera
         esperarXsegundos(tiempo);
 
+        // Impresion post tiempo de espera
         System.out.printf("%s terminó de lavar el vehiculo %s en el tiempo %d seg\n",
                 Thread.currentThread().getName(), vehiculo, (System.currentTimeMillis() - init) / 1000);
     }

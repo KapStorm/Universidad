@@ -1,7 +1,5 @@
 package unidad3.hilos.autos;
 
-import java.util.List;
-
 public class Clientes {
     private String nombre;
     private String[] autos;
