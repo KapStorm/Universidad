@@ -1,0 +1,6 @@
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.AssemblyReference.cache
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb

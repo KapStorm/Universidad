@@ -1,0 +1,6 @@
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ReadLine/bin/Debug/ReadLine.exe
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ReadLine/bin/Debug/ReadLine.pdb
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ReadLine/obj/Debug/ReadLine.csproj.AssemblyReference.cache
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ReadLine/obj/Debug/ReadLine.csproj.CoreCompileInputs.cache
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ReadLine/obj/Debug/ReadLine.exe
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ReadLine/obj/Debug/ReadLine.pdb

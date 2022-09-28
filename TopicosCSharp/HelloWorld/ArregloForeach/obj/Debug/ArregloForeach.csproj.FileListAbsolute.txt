@@ -1,0 +1,6 @@
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ArregloForeach/bin/Debug/ArregloForeach.exe
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ArregloForeach/bin/Debug/ArregloForeach.pdb
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ArregloForeach/obj/Debug/ArregloForeach.csproj.AssemblyReference.cache
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ArregloForeach/obj/Debug/ArregloForeach.csproj.CoreCompileInputs.cache
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ArregloForeach/obj/Debug/ArregloForeach.exe
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ArregloForeach/obj/Debug/ArregloForeach.pdb

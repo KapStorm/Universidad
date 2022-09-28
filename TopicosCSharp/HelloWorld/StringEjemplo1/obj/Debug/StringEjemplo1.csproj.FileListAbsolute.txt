@@ -1,0 +1,6 @@
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/StringEjemplo1/bin/Debug/StringEjemplo1.exe
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/StringEjemplo1/bin/Debug/StringEjemplo1.pdb
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/StringEjemplo1/obj/Debug/StringEjemplo1.csproj.AssemblyReference.cache
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/StringEjemplo1/obj/Debug/StringEjemplo1.csproj.CoreCompileInputs.cache
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/StringEjemplo1/obj/Debug/StringEjemplo1.exe
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/StringEjemplo1/obj/Debug/StringEjemplo1.pdb

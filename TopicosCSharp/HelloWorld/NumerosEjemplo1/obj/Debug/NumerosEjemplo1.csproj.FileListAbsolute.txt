@@ -1,0 +1,6 @@
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/NumerosEjemplo1/bin/Debug/NumerosEjemplo1.exe
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/NumerosEjemplo1/bin/Debug/NumerosEjemplo1.pdb
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/NumerosEjemplo1/obj/Debug/NumerosEjemplo1.csproj.AssemblyReference.cache
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/NumerosEjemplo1/obj/Debug/NumerosEjemplo1.csproj.CoreCompileInputs.cache
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/NumerosEjemplo1/obj/Debug/NumerosEjemplo1.exe
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/NumerosEjemplo1/obj/Debug/NumerosEjemplo1.pdb

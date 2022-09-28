@@ -1,0 +1,6 @@
+/home/dell/dev/Universidad/TopicosCSharp/ArregloPares/ArregloPares/bin/Debug/ArregloPares.exe
+/home/dell/dev/Universidad/TopicosCSharp/ArregloPares/ArregloPares/bin/Debug/ArregloPares.pdb
+/home/dell/dev/Universidad/TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.csproj.AssemblyReference.cache
+/home/dell/dev/Universidad/TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.csproj.CoreCompileInputs.cache
+/home/dell/dev/Universidad/TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.exe
+/home/dell/dev/Universidad/TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.pdb

@@ -1,0 +1,6 @@
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ArregloEscuela/bin/Debug/ArregloEscuela.exe
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ArregloEscuela/bin/Debug/ArregloEscuela.pdb
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ArregloEscuela/obj/Debug/ArregloEscuela.csproj.AssemblyReference.cache
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ArregloEscuela/obj/Debug/ArregloEscuela.csproj.CoreCompileInputs.cache
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ArregloEscuela/obj/Debug/ArregloEscuela.exe
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/ArregloEscuela/obj/Debug/ArregloEscuela.pdb
