@@ -1,0 +1,6 @@
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/CatalogoDeServicios/bin/Debug/CatalogoDeServicios.exe
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/CatalogoDeServicios/bin/Debug/CatalogoDeServicios.pdb
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/CatalogoDeServicios/obj/Debug/CatalogoDeServicios.csproj.AssemblyReference.cache
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/CatalogoDeServicios/obj/Debug/CatalogoDeServicios.csproj.CoreCompileInputs.cache
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/CatalogoDeServicios/obj/Debug/CatalogoDeServicios.exe
+/home/dell/dev/Universidad/TopicosCSharp/HelloWorld/CatalogoDeServicios/obj/Debug/CatalogoDeServicios.pdb
