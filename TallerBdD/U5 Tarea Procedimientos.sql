@@ -57,8 +57,11 @@ END
 GO
 
 DECLARE @R INT
-EXEC sp_edad_exacta 4, @R OUTPUT
+EXEC sp_edad_exacta 1, @R OUTPUT
 SELECT EdadExacta = @R
+
+SELECT BirthDate
+FROM Employees
 GO
 
 
@@ -67,7 +70,7 @@ GO
     UN PARAMETRO CON EL NOMBRE DE TODOS LOS CLIENTES QUE COMPRARON ESE DIA Y OTRO PARAMETRO 
     CON LA LISTA DE LAS ORDENES REALIZADAS ESE DIA.
 */
-CREATE OR ALTER PROC sp_compras_por_fecha_dos_parametros @Fecha DATE, @Clientes VARCHAR(500) OUTPUT, @Ordenes VARCHAR(500) OUTPUT AS
+CREATE OR ALTER PROC sp_compras_por_fecha @Fecha DATE, @Clientes VARCHAR(500) OUTPUT, @Ordenes VARCHAR(500) OUTPUT AS
 BEGIN
     DECLARE @Aux INT
 
@@ -88,11 +91,14 @@ BEGIN
         FROM Orders
         WHERE OrderDate = @Fecha AND @Aux < OrderID
     END
+
+    SELECT @Clientes = SUBSTRING(@Clientes, 1, LEN(@Clientes) - 1),
+    @Ordenes = SUBSTRING(@Ordenes, 1, LEN(@Ordenes) - 1)
 END
 GO
 
 DECLARE @R1 VARCHAR(500), @R2 VARCHAR(500)
-EXEC sp_compras_por_fecha_dos_parametros '1996-07-19', @R1 OUTPUT, @R2 OUTPUT
+EXEC sp_compras_por_fecha '1996-07-19', @R1 OUTPUT, @R2 OUTPUT
 
 SELECT Clientes = @R1, Ordenes = @R2
 GO
@@ -102,16 +108,50 @@ GO
     4.- PROCEDIMIENTO ALMACENADO QUE REGRESE UNA TABLA CON LA FECHA Y LOS NOMBRES DE LOS 
     CLIENTES QUE COMPRARON ESE DÍA.
 */
-CREATE OR ALTER PROC sp_compras_por_fecha @Fecha DATE AS
+CREATE OR ALTER PROC sp_compras AS
 BEGIN
-    SELECT o.OrderDate, c.CompanyName
-    FROM Orders o
-    INNER JOIN Customers c ON o.CustomerID = c.CustomerID
-    WHERE o.OrderDate = @Fecha
+    CREATE TABLE #Salida(Fecha DATETIME, Nombre VARCHAR(500))
+    DECLARE @Fecha DATE
+
+    SELECT @Fecha = MIN(OrderDate) 
+    FROM Orders
+
+    WHILE @Fecha IS NOT NULL
+    BEGIN
+        DECLARE @Aux INT, @Nombres VARCHAR(500)
+        SELECT @Nombres = ''
+
+        SELECT @Aux = MIN(OrderID)
+        FROM Orders
+        WHERE OrderDate = @Fecha
+
+        WHILE @Aux IS NOT NULL
+        BEGIN
+            SELECT @Nombres = @Nombres + c.CompanyName + ', '
+            FROM Orders o
+            INNER JOIN Customers c ON o.CustomerID = c.CustomerID
+            WHERE o.OrderID = @Aux
+
+            SELECT @Aux = MIN(OrderID)
+            FROM Orders
+            WHERE @Aux < OrderID
+            AND OrderDate = @Fecha
+        END
+
+        SELECT @Nombres = SUBSTRING(@Nombres, 1, LEN(@Nombres) - 1)
+
+        INSERT INTO #Salida VALUES (@Fecha, @Nombres)
+
+        SELECT @Fecha = MIN(OrderDate)
+        FROM Orders
+        WHERE @Fecha < OrderDate
+    END
+
+    SELECT * FROM #Salida
 END
 GO
 
-EXEC sp_compras_por_fecha '1996-07-19'
+EXEC sp_compras
 GO
 
 
@@ -135,18 +175,42 @@ EXEC sp_articulo_mas_vendido 1996, @R1 OUTPUT, @R2 OUTPUT
 SELECT Articulo = @R1, Cantidad = @R2
 GO
 
+
 /*
     6.- SP QUE RECIBA LA CLAVE DEL EMPLEADO Y REGRESE COMO PARAMETRO DE SALIDA TODOS LOS NOMBRES DE LOS TERRITORIOS QUE ATIENDEN EL EMPLEADO.
 */
-CREATE OR ALTER PROC sp_territorios_empleado @EmpleadoId INT AS
+CREATE OR ALTER PROC sp_territorios_empleado @EmpleadoId INT, @Territorios NVARCHAR(300) OUTPUT AS
 BEGIN
-    SELECT t.TerritoryDescription
+    DECLARE @Aux INT
+    SELECT @Territorios = ''
+
+    SELECT @Aux = MIN(t.TerritoryID)
     FROM EmployeeTerritories et
     INNER JOIN Territories t ON et.TerritoryID = t.TerritoryID
+    WHERE et.EmployeeID = @EmpleadoId
+
+    WHILE @Aux IS NOT NULL
+    BEGIN
+        SELECT @Territorios = @Territorios + TRIM(TerritoryDescription) + ', '
+        FROM Territories
+        WHERE TerritoryID = @Aux
+
+        SELECT @Aux = MIN(t.TerritoryID)
+        FROM EmployeeTerritories et
+        INNER JOIN Territories t ON et.TerritoryID = t.TerritoryID
+        WHERE et.EmployeeID = @EmpleadoId
+        AND @Aux < t.TerritoryID
+    END
+
+    SELECT @Territorios = SUBSTRING(@Territorios, 1, LEN(@Territorios) - 1)
 END 
 GO
 
-EXEC sp_territorios_empleado 1
+DECLARE @R NVARCHAR(300)
+
+EXEC sp_territorios_empleado 2, @R OUTPUT
+SELECT Territorios = @R
+SELECT * FROM EmployeeTerritories
 GO
 
 
@@ -190,7 +254,8 @@ BEGIN
             FROM Employees
             WHERE EmployeeID = @AuxJefeId
         END
-
+        
+        SELECT @AuxNombreJefes = SUBSTRING(@AuxNombreJefes, 1, LEN(@AuxNombreJefes) - 1)
         INSERT INTO #Aux VALUES (@AuxNombreEmp, @AuxNombreJefes, @AuxUltimoJefe)
 
         SELECT @AuxEmpId = MIN(EmployeeID)
@@ -213,10 +278,59 @@ GO
     8.- PROCEDIMIENTO ALMACENADO QUE RECIBA EL NOMBRE DE UNA TABLA Y 
     QUE EL PROCEDIMIENTO IMPRIMA EL CODIGO DE CREACIÓN DE DICHA TABLA.
 */
-CREATE OR ALTER PROC sp_codigo_tabla @NombreTabla VARCHAR(50) AS
+CREATE OR ALTER PROC sp_temp @Tabla NVARCHAR(40) AS
 BEGIN
-    SELECT Id = OBJECT_ID(@NombreTabla)
+    DECLARE @Text NVARCHAR(1500)
+    SELECT @Text = 'CREATE TABLE ' + @Tabla + '('
+
+    DECLARE @Aux TINYINT
+    SELECT @Aux = MIN(colid) 
+    FROM sys.syscolumns
+    WHERE id = OBJECT_ID(@Tabla)
+    AND name <> 'sysname'
+
+    WHILE @Aux IS NOT NULL
+    BEGIN
+        DECLARE @NombreColumna NVARCHAR(50), @TipoDato NVARCHAR(50), @Longitud INT, @Scale TINYINT, @Nullable BIT
+
+        SELECT
+        @NombreColumna = UPPER(t.name),
+        @TipoDato = s.name,
+        @Scale = s.scale,
+        @Longitud = s.length,
+        @Nullable = s.isnullable
+        FROM sys.syscolumns s
+        INNER JOIN sys.TYPES t ON s.xtype = t.system_type_id 
+        WHERE colid = @Aux
+        AND s.id = OBJECT_ID(@Tabla)
+        AND t.name <> 'sysname'
+
+        SELECT @Text = @Text + @TipoDato + ' ' + @NombreColumna
+
+        IF @Scale IS NULL
+            SELECT @Text = @Text + '(' + CONVERT(NVARCHAR(10), @Longitud) + ') ' 
+        ELSE 
+            SELECT @Text = @Text + ' '
+
+        IF @Nullable = 0
+            SELECT @Text = @Text + 'NOT NULL'
+        ELSE
+            SELECT @Text = @Text + 'NULL'
+
+        SELECT @Text = @Text + ', '
+
+        SELECT @Aux = MIN(colid) 
+        FROM sys.syscolumns
+        WHERE @Aux < colid
+        AND id = OBJECT_ID(@Tabla)
+    END
+
+    SELECT @Text = SUBSTRING(@Text, 1, LEN(@Text) - 1)
+
+    SELECT @Text = @Text + ')'
+
+    SELECT Query = @Text
 END
 GO
 
-EXEC sp_codigo_tabla 'Employees'
+EXEC sp_temp 'Categories'
