@@ -1,0 +1,10 @@
+\\VBOXSVR\Documents\SQL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+\\VBOXSVR\Documents\SQL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Documents\SQL\Datos\bin\Debug\Choferes.Datos.dll
+\\VBOXSVR\Documents\SQL\Datos\bin\Debug\Choferes.Datos.pdb
+\\VBOXSVR\Documents\SQL\Datos\bin\Debug\Choferes.Entidades.dll
+\\VBOXSVR\Documents\SQL\Datos\bin\Debug\LibreriaBD.dll
+\\VBOXSVR\Documents\SQL\Datos\bin\Debug\Choferes.Entidades.pdb
+\\VBOXSVR\Documents\SQL\Datos\obj\Debug\Datos.csproj.CopyComplete
+\\VBOXSVR\Documents\SQL\Datos\obj\Debug\Choferes.Datos.dll
+\\VBOXSVR\Documents\SQL\Datos\obj\Debug\Choferes.Datos.pdb

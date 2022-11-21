@@ -1,0 +1,6 @@
+\\VBOXSVR\Documents\SQL\Entidades\bin\Debug\Choferes.Entidades.dll
+\\VBOXSVR\Documents\SQL\Entidades\bin\Debug\Choferes.Entidades.pdb
+\\VBOXSVR\Documents\SQL\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+\\VBOXSVR\Documents\SQL\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Documents\SQL\Entidades\obj\Debug\Choferes.Entidades.dll
+\\VBOXSVR\Documents\SQL\Entidades\obj\Debug\Choferes.Entidades.pdb

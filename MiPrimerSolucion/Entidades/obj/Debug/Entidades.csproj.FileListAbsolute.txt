@@ -1,0 +1,6 @@
+\\VBOXSVR\Documents\MiPrimerSolucion\Entidades\bin\Debug\MPS.Entidades.dll
+\\VBOXSVR\Documents\MiPrimerSolucion\Entidades\bin\Debug\MPS.Entidades.pdb
+\\VBOXSVR\Documents\MiPrimerSolucion\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+\\VBOXSVR\Documents\MiPrimerSolucion\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Documents\MiPrimerSolucion\Entidades\obj\Debug\MPS.Entidades.dll
+\\VBOXSVR\Documents\MiPrimerSolucion\Entidades\obj\Debug\MPS.Entidades.pdb

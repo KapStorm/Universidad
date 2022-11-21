@@ -1,0 +1,157 @@
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Carros.exe.config
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Carros.exe
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Carros.pdb
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\BibliotecaUsoPDF.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\BouncyCastle.Crypto.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.barcodes.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.commons.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.forms.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.io.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.kernel.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.layout.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.pdfa.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.sign.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.styledxmlparser.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.svg.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Microsoft.Extensions.Logging.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Microsoft.Extensions.Options.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Microsoft.Extensions.Primitives.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Newtonsoft.Json.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\System.Buffers.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\System.Diagnostics.DiagnosticSource.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\System.Memory.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\System.Numerics.Vectors.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\System.Threading.Tasks.Extensions.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\System.ValueTuple.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\BouncyCastle.Crypto.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.barcodes.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.commons.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.forms.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.io.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.kernel.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.layout.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.pdfa.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.sign.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.styledxmlparser.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\itext.svg.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Microsoft.Extensions.Logging.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Microsoft.Extensions.Options.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Microsoft.Extensions.Primitives.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\Newtonsoft.Json.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\System.Buffers.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\System.Diagnostics.DiagnosticSource.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\System.Memory.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\System.Numerics.Vectors.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\System.Threading.Tasks.Extensions.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Release\System.ValueTuple.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.csproj.AssemblyReference.cache
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.frmAcercade.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.frmAgregarServicio.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.frmConsulta.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.frmAgregarReporte.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.frmConsultaReporteGeneral.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.frmConsultaServicio.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.frmConsultaServicioGeneral.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.Form1.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.frmConsultaGeneral.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.frmMenu.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.frmModificarCosto.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.frmModificarDetalles.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.frmMostrarServicioAuto.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.frmReporteDetalles.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.frmReporteIndividual.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.Properties.Resources.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.csproj.GenerateResource.cache
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.csproj.CoreCompileInputs.cache
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.csproj.CopyComplete
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.exe
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Release\Carros.pdb
+\\VBOXSVR\Documents\Carros\bin\Release\Carros.exe.config
+\\VBOXSVR\Documents\Carros\bin\Release\Carros.exe
+\\VBOXSVR\Documents\Carros\bin\Release\Carros.pdb
+\\VBOXSVR\Documents\Carros\bin\Release\BibliotecaUsoPDF.dll
+\\VBOXSVR\Documents\Carros\bin\Release\BouncyCastle.Crypto.dll
+\\VBOXSVR\Documents\Carros\bin\Release\itext.barcodes.dll
+\\VBOXSVR\Documents\Carros\bin\Release\itext.commons.dll
+\\VBOXSVR\Documents\Carros\bin\Release\itext.forms.dll
+\\VBOXSVR\Documents\Carros\bin\Release\itext.io.dll
+\\VBOXSVR\Documents\Carros\bin\Release\itext.kernel.dll
+\\VBOXSVR\Documents\Carros\bin\Release\itext.layout.dll
+\\VBOXSVR\Documents\Carros\bin\Release\itext.pdfa.dll
+\\VBOXSVR\Documents\Carros\bin\Release\itext.sign.dll
+\\VBOXSVR\Documents\Carros\bin\Release\itext.styledxmlparser.dll
+\\VBOXSVR\Documents\Carros\bin\Release\itext.svg.dll
+\\VBOXSVR\Documents\Carros\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+\\VBOXSVR\Documents\Carros\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\VBOXSVR\Documents\Carros\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+\\VBOXSVR\Documents\Carros\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+\\VBOXSVR\Documents\Carros\bin\Release\Microsoft.Extensions.Logging.dll
+\\VBOXSVR\Documents\Carros\bin\Release\Microsoft.Extensions.Options.dll
+\\VBOXSVR\Documents\Carros\bin\Release\Microsoft.Extensions.Primitives.dll
+\\VBOXSVR\Documents\Carros\bin\Release\Newtonsoft.Json.dll
+\\VBOXSVR\Documents\Carros\bin\Release\System.Buffers.dll
+\\VBOXSVR\Documents\Carros\bin\Release\System.Diagnostics.DiagnosticSource.dll
+\\VBOXSVR\Documents\Carros\bin\Release\System.Memory.dll
+\\VBOXSVR\Documents\Carros\bin\Release\System.Numerics.Vectors.dll
+\\VBOXSVR\Documents\Carros\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+\\VBOXSVR\Documents\Carros\bin\Release\System.Threading.Tasks.Extensions.dll
+\\VBOXSVR\Documents\Carros\bin\Release\System.ValueTuple.dll
+\\VBOXSVR\Documents\Carros\bin\Release\BouncyCastle.Crypto.xml
+\\VBOXSVR\Documents\Carros\bin\Release\itext.barcodes.xml
+\\VBOXSVR\Documents\Carros\bin\Release\itext.commons.xml
+\\VBOXSVR\Documents\Carros\bin\Release\itext.forms.xml
+\\VBOXSVR\Documents\Carros\bin\Release\itext.io.xml
+\\VBOXSVR\Documents\Carros\bin\Release\itext.kernel.xml
+\\VBOXSVR\Documents\Carros\bin\Release\itext.layout.xml
+\\VBOXSVR\Documents\Carros\bin\Release\itext.pdfa.xml
+\\VBOXSVR\Documents\Carros\bin\Release\itext.sign.xml
+\\VBOXSVR\Documents\Carros\bin\Release\itext.styledxmlparser.xml
+\\VBOXSVR\Documents\Carros\bin\Release\itext.svg.xml
+\\VBOXSVR\Documents\Carros\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+\\VBOXSVR\Documents\Carros\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+\\VBOXSVR\Documents\Carros\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+\\VBOXSVR\Documents\Carros\bin\Release\Microsoft.Extensions.Logging.xml
+\\VBOXSVR\Documents\Carros\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+\\VBOXSVR\Documents\Carros\bin\Release\Microsoft.Extensions.Options.xml
+\\VBOXSVR\Documents\Carros\bin\Release\Microsoft.Extensions.Primitives.xml
+\\VBOXSVR\Documents\Carros\bin\Release\Newtonsoft.Json.xml
+\\VBOXSVR\Documents\Carros\bin\Release\System.Buffers.xml
+\\VBOXSVR\Documents\Carros\bin\Release\System.Diagnostics.DiagnosticSource.xml
+\\VBOXSVR\Documents\Carros\bin\Release\System.Memory.xml
+\\VBOXSVR\Documents\Carros\bin\Release\System.Numerics.Vectors.xml
+\\VBOXSVR\Documents\Carros\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+\\VBOXSVR\Documents\Carros\bin\Release\System.Threading.Tasks.Extensions.xml
+\\VBOXSVR\Documents\Carros\bin\Release\System.ValueTuple.xml
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.csproj.AssemblyReference.cache
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.csproj.SuggestedBindingRedirects.cache
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.frmAcercade.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.frmAgregarServicio.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.frmConsulta.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.frmAgregarReporte.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.frmConsultaReporteGeneral.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.frmConsultaServicio.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.frmConsultaServicioGeneral.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.Form1.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.frmConsultaGeneral.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.frmMenu.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.frmModificarCosto.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.frmModificarDetalles.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.frmMostrarServicioAuto.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.frmReporteDetalles.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.frmReporteIndividual.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.Properties.Resources.resources
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.csproj.GenerateResource.cache
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.csproj.CopyComplete
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.exe
+\\VBOXSVR\Documents\Carros\obj\Release\Carros.pdb

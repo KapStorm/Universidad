@@ -1,0 +1,6 @@
+C:\Users\ADMIN\Documents\Visual Studio 2019\Ago-Dic2021\LibreriaBD\LibreriaBD\bin\Release\LibreriaBD.dll
+C:\Users\ADMIN\Documents\Visual Studio 2019\Ago-Dic2021\LibreriaBD\LibreriaBD\bin\Release\LibreriaBD.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2019\Ago-Dic2021\LibreriaBD\LibreriaBD\obj\Release\LibreriaBD.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2019\Ago-Dic2021\LibreriaBD\LibreriaBD\obj\Release\LibreriaBD.dll
+C:\Users\ADMIN\Documents\Visual Studio 2019\Ago-Dic2021\LibreriaBD\LibreriaBD\obj\Release\LibreriaBD.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2019\Ago-Dic2021\LibreriaBD\LibreriaBD\obj\Release\LibreriaBD.csproj.AssemblyReference.cache

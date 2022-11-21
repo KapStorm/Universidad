@@ -1,0 +1,11 @@
+\\VBOXSVR\Documents\MiPrimerSolucion\Negocios\bin\Debug\MPS.Negocios.dll
+\\VBOXSVR\Documents\MiPrimerSolucion\Negocios\bin\Debug\MPS.Negocios.pdb
+\\VBOXSVR\Documents\MiPrimerSolucion\Negocios\bin\Debug\MPS.Datos.dll
+\\VBOXSVR\Documents\MiPrimerSolucion\Negocios\bin\Debug\MPS.Entidades.dll
+\\VBOXSVR\Documents\MiPrimerSolucion\Negocios\bin\Debug\MPS.Datos.pdb
+\\VBOXSVR\Documents\MiPrimerSolucion\Negocios\bin\Debug\MPS.Entidades.pdb
+\\VBOXSVR\Documents\MiPrimerSolucion\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+\\VBOXSVR\Documents\MiPrimerSolucion\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Documents\MiPrimerSolucion\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+\\VBOXSVR\Documents\MiPrimerSolucion\Negocios\obj\Debug\MPS.Negocios.dll
+\\VBOXSVR\Documents\MiPrimerSolucion\Negocios\obj\Debug\MPS.Negocios.pdb

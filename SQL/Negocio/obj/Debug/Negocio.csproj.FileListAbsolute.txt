@@ -1,0 +1,12 @@
+\\VBOXSVR\Documents\SQL\Negocio\bin\Debug\Choferes.Negocio.dll
+\\VBOXSVR\Documents\SQL\Negocio\bin\Debug\Choferes.Negocio.pdb
+\\VBOXSVR\Documents\SQL\Negocio\bin\Debug\Choferes.Datos.dll
+\\VBOXSVR\Documents\SQL\Negocio\bin\Debug\Choferes.Entidades.dll
+\\VBOXSVR\Documents\SQL\Negocio\bin\Debug\LibreriaBD.dll
+\\VBOXSVR\Documents\SQL\Negocio\bin\Debug\Choferes.Datos.pdb
+\\VBOXSVR\Documents\SQL\Negocio\bin\Debug\Choferes.Entidades.pdb
+\\VBOXSVR\Documents\SQL\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+\\VBOXSVR\Documents\SQL\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Documents\SQL\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+\\VBOXSVR\Documents\SQL\Negocio\obj\Debug\Choferes.Negocio.dll
+\\VBOXSVR\Documents\SQL\Negocio\obj\Debug\Choferes.Negocio.pdb

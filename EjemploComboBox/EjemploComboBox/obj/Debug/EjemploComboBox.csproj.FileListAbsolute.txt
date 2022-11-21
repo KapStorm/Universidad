@@ -1,0 +1,11 @@
+\\VBOXSVR\Documents\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.exe.config
+\\VBOXSVR\Documents\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.exe
+\\VBOXSVR\Documents\EjemploComboBox\EjemploComboBox\bin\Debug\EjemploComboBox.pdb
+\\VBOXSVR\Documents\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.csproj.AssemblyReference.cache
+\\VBOXSVR\Documents\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.csproj.SuggestedBindingRedirects.cache
+\\VBOXSVR\Documents\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.Form1.resources
+\\VBOXSVR\Documents\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.Properties.Resources.resources
+\\VBOXSVR\Documents\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.csproj.GenerateResource.cache
+\\VBOXSVR\Documents\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Documents\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.exe
+\\VBOXSVR\Documents\EjemploComboBox\EjemploComboBox\obj\Debug\EjemploComboBox.pdb

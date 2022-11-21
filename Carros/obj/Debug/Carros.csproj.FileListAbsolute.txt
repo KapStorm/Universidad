@@ -1,0 +1,148 @@
+C:\Users\Administrador\source\repos\Carros\Carros\bin\Debug\Carros.exe.config
+C:\Users\Administrador\source\repos\Carros\Carros\bin\Debug\Carros.exe
+C:\Users\Administrador\source\repos\Carros\Carros\bin\Debug\Carros.pdb
+C:\Users\Administrador\source\repos\Carros\Carros\obj\Debug\Carros.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Carros\Carros\obj\Debug\Carros.Form1.resources
+C:\Users\Administrador\source\repos\Carros\Carros\obj\Debug\Carros.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Carros\Carros\obj\Debug\Carros.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Carros\Carros\obj\Debug\Carros.exe
+C:\Users\Administrador\source\repos\Carros\Carros\obj\Debug\Carros.pdb
+D:\Topicos Avanzados de Programacion\FORMS\Carros\bin\Debug\Carros.exe.config
+D:\Topicos Avanzados de Programacion\FORMS\Carros\bin\Debug\Carros.exe
+D:\Topicos Avanzados de Programacion\FORMS\Carros\bin\Debug\Carros.pdb
+D:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.csprojAssemblyReference.cache
+D:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmConsulta.resources
+D:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.Form1.resources
+D:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.Properties.Resources.resources
+D:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.csproj.GenerateResource.cache
+D:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.exe
+D:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.pdb
+E:\Topicos Avanzados de Programacion\FORMS\Carros\bin\Debug\Carros.exe.config
+E:\Topicos Avanzados de Programacion\FORMS\Carros\bin\Debug\Carros.exe
+E:\Topicos Avanzados de Programacion\FORMS\Carros\bin\Debug\Carros.pdb
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmConsulta.resources
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.Form1.resources
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.Properties.Resources.resources
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.csproj.GenerateResource.cache
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.exe
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.pdb
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmConsultaGeneral.resources
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmMenu.resources
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.csproj.AssemblyReference.cache
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.csproj.CoreCompileInputs.cache
+D:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmConsultaGeneral.resources
+D:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmMenu.resources
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmAgregarServicio.resources
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmConsultaServicio.resources
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmConsultaServicioGeneral.resources
+D:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmAcercade.resources
+D:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmAgregarServicio.resources
+D:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmConsultaServicio.resources
+D:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmConsultaServicioGeneral.resources
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmAcercade.resources
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmModificarDetalles.resources
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmModificarCosto.resources
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmAgregarReporte.resources
+E:\Topicos Avanzados de Programacion\FORMS\Carros\obj\Debug\Carros.frmConsultaReporteGeneral.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\bin\Debug\Carros.exe.config
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\bin\Debug\Carros.exe
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\bin\Debug\Carros.pdb
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.csproj.AssemblyReference.cache
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.frmAcercade.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.frmAgregarServicio.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.frmConsulta.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.frmAgregarReporte.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.frmConsultaReporteGeneral.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.frmConsultaServicio.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.frmConsultaServicioGeneral.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.Form1.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.frmConsultaGeneral.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.frmMenu.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.frmModificarCosto.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.frmModificarDetalles.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.Properties.Resources.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.csproj.GenerateResource.cache
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.csproj.CoreCompileInputs.cache
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.exe
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.pdb
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.frmReporteDetalles.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.frmMostrarServicioAuto.resources
+C:\Users\Rayo\Documents\TEC\Quinto semestre\Topicos Avanzados de Programacion\Carros\obj\Debug\Carros.frmReporteIndividual.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Carros.exe.config
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Carros.exe
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Carros.pdb
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\BibliotecaUsoPDF.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.csproj.AssemblyReference.cache
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.frmAcercade.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.frmAgregarServicio.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.frmConsulta.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.frmAgregarReporte.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.frmConsultaReporteGeneral.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.frmConsultaServicio.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.frmConsultaServicioGeneral.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.Form1.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.frmConsultaGeneral.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.frmMenu.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.frmModificarCosto.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.frmModificarDetalles.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.frmMostrarServicioAuto.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.frmReporteDetalles.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.frmReporteIndividual.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.Properties.Resources.resources
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.csproj.GenerateResource.cache
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.csproj.CoreCompileInputs.cache
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.csproj.CopyComplete
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.exe
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\obj\Debug\Carros.pdb
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\BouncyCastle.Crypto.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.barcodes.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.commons.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.forms.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.io.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.kernel.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.layout.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.pdfa.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.sign.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.styledxmlparser.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.svg.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Microsoft.Extensions.Options.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Newtonsoft.Json.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\System.Buffers.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\System.Memory.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\System.Numerics.Vectors.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\System.ValueTuple.dll
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\BouncyCastle.Crypto.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.barcodes.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.commons.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.forms.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.io.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.kernel.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.layout.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.pdfa.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.sign.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.styledxmlparser.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\itext.svg.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Microsoft.Extensions.Options.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\Newtonsoft.Json.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\System.Buffers.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\System.Memory.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\System.Numerics.Vectors.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Semestre V\Topicos Avanzados de Programacion\WindowsForm\Carros\bin\Debug\System.ValueTuple.xml

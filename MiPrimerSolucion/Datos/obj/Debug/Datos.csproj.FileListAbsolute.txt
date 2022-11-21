@@ -1,0 +1,9 @@
+\\VBOXSVR\Documents\MiPrimerSolucion\Datos\bin\Debug\MPS.Datos.dll
+\\VBOXSVR\Documents\MiPrimerSolucion\Datos\bin\Debug\MPS.Datos.pdb
+\\VBOXSVR\Documents\MiPrimerSolucion\Datos\bin\Debug\MPS.Entidades.dll
+\\VBOXSVR\Documents\MiPrimerSolucion\Datos\bin\Debug\MPS.Entidades.pdb
+\\VBOXSVR\Documents\MiPrimerSolucion\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+\\VBOXSVR\Documents\MiPrimerSolucion\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Documents\MiPrimerSolucion\Datos\obj\Debug\Datos.csproj.CopyComplete
+\\VBOXSVR\Documents\MiPrimerSolucion\Datos\obj\Debug\MPS.Datos.dll
+\\VBOXSVR\Documents\MiPrimerSolucion\Datos\obj\Debug\MPS.Datos.pdb

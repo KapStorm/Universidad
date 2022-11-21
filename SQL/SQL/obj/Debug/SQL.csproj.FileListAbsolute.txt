@@ -1,0 +1,14 @@
+\\VBOXSVR\Documents\SQL\SQL\bin\Debug\SQL.exe.config
+\\VBOXSVR\Documents\SQL\SQL\bin\Debug\SQL.exe
+\\VBOXSVR\Documents\SQL\SQL\bin\Debug\SQL.pdb
+\\VBOXSVR\Documents\SQL\SQL\obj\Debug\SQL.csproj.AssemblyReference.cache
+\\VBOXSVR\Documents\SQL\SQL\obj\Debug\SQL.csproj.SuggestedBindingRedirects.cache
+\\VBOXSVR\Documents\SQL\SQL\obj\Debug\SQL.Properties.Resources.resources
+\\VBOXSVR\Documents\SQL\SQL\obj\Debug\SQL.csproj.GenerateResource.cache
+\\VBOXSVR\Documents\SQL\SQL\obj\Debug\SQL.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Documents\SQL\SQL\obj\Debug\SQL.exe
+\\VBOXSVR\Documents\SQL\SQL\obj\Debug\SQL.pdb
+\\VBOXSVR\Documents\SQL\SQL\obj\Debug\SQL.frmConsultaChoferes.resources
+\\VBOXSVR\Documents\SQL\SQL\obj\Debug\SQL.frmConsultaChoferesTodos.resources
+\\VBOXSVR\Documents\SQL\SQL\obj\Debug\SQL.frmMenu.resources
+\\VBOXSVR\Documents\SQL\SQL\obj\Debug\SQL.frmConsultaVisitasTodos.resources

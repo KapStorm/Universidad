@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Documents\Visual Studio 2019\Ago-Dic2021\LibreriaBD\LibreriaBD\obj\Debug\LibreriaBD.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio 2019\Ago-Dic2021\LibreriaBD\LibreriaBD\bin\Debug\LibreriaBD.dll
+C:\Users\ADMIN\Documents\Visual Studio 2019\Ago-Dic2021\LibreriaBD\LibreriaBD\bin\Debug\LibreriaBD.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2019\Ago-Dic2021\LibreriaBD\LibreriaBD\obj\Debug\LibreriaBD.dll
+C:\Users\ADMIN\Documents\Visual Studio 2019\Ago-Dic2021\LibreriaBD\LibreriaBD\obj\Debug\LibreriaBD.pdb

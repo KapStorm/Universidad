@@ -1,0 +1,247 @@
+E:/Auto/Auto/bin/Debug/Auto.exe.config
+E:/Auto/Auto/bin/Debug/Auto.exe
+E:/Auto/Auto/bin/Debug/Auto.pdb
+E:/Auto/Auto/obj/Debug/Auto.csprojAssemblyReference.cache
+E:/Auto/Auto/obj/Debug/Auto.Form1.resources
+E:/Auto/Auto/obj/Debug/Auto.Properties.Resources.resources
+E:/Auto/Auto/obj/Debug/Auto.csproj.GenerateResource.cache
+E:/Auto/Auto/obj/Debug/Auto.exe
+E:/Auto/Auto/obj/Debug/Auto.pdb
+E:/Auto/Auto/obj/Debug/Auto.frmConsultaAuto.resources
+D:/Auto/Auto/bin/Debug/Auto.exe.config
+D:/Auto/Auto/bin/Debug/Auto.exe
+D:/Auto/Auto/bin/Debug/Auto.pdb
+D:/Auto/Auto/obj/Debug/Auto.csproj.AssemblyReference.cache
+D:/Auto/Auto/obj/Debug/Auto.frmConsultaAuto.resources
+D:/Auto/Auto/obj/Debug/Auto.Form1.resources
+D:/Auto/Auto/obj/Debug/Auto.Properties.Resources.resources
+D:/Auto/Auto/obj/Debug/Auto.csproj.GenerateResource.cache
+D:/Auto/Auto/obj/Debug/Auto.csproj.CoreCompileInputs.cache
+D:/Auto/Auto/obj/Debug/Auto.exe
+D:/Auto/Auto/obj/Debug/Auto.pdb
+E:/Auto/Auto/obj/Debug/Auto.frmConsultaTodosDatos.resources
+E:/Auto/Auto/obj/Debug/Auto.frmMenu.resources
+D:/Auto/Auto/obj/Debug/Auto.frmConsultaTodosDatos.resources
+D:/Auto/Auto/obj/Debug/Auto.frmMenu.resources
+//VBOXSVR/Documents/Auto/Auto/bin/Debug/Auto.exe.config
+//VBOXSVR/Documents/Auto/Auto/bin/Debug/Auto.exe
+//VBOXSVR/Documents/Auto/Auto/bin/Debug/Auto.pdb
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.csproj.AssemblyReference.cache
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.csproj.SuggestedBindingRedirects.cache
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.frmConsultaAuto.resources
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.frmAgregarAuto.resources
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.frmConsultaTodosDatos.resources
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.frmMenu.resources
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.frmModificarAuto.resources
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.Properties.Resources.resources
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.csproj.GenerateResource.cache
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.csproj.CoreCompileInputs.cache
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.exe
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.pdb
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.FrmAgregarServ.resources
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.frmAgregarServicio.resources
+//VBOXSVR/Documents/Auto/Auto/obj/Debug/Auto.frmConsultaServicio.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/bin/Debug/Auto.exe.config
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/bin/Debug/Auto.exe
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/bin/Debug/Auto.pdb
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.csproj.AssemblyReference.cache
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmAgregarAuto.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmConsultaTodosDatos.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmMenu.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmModificarAuto.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.Properties.Resources.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.csproj.GenerateResource.cache
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.csproj.CoreCompileInputs.cache
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.exe
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.pdb
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmModificarServicio.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmAcercade.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmConsultaTodoServicio.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmAgregarServicio.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmConsultaServicio.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmConsultaAuto.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmAgregarAutoServicio.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmConsultaAutoServicio.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/bin/Debug/Auto.exe.config
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/bin/Debug/Auto.exe
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/bin/Debug/Auto.pdb
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.csproj.AssemblyReference.cache
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmAcercade.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmAgregarAuto.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmAgregarServicio.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmAgregarAutoServicio.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmConsultaAuto.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmConsultaAutoServicio.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmConsultaServicio.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmConsultaTodosDatos.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmConsultaTodoServicio.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmMenu.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmModificarAuto.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmModificarServicio.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmReporteAutosMarca.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.Properties.Resources.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.Resources.frmConsultaAutoServicio.resources
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.csproj.GenerateResource.cache
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.csproj.CoreCompileInputs.cache
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.exe
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.pdb
+//VBOXSVR/Documents/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmReportePorFecha.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmConsultaTodosAutoServicio.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmReportePorFecha.resources
+C:/Users/Namascasia/Desktop/Auto 25-10-2022/Auto/Auto/obj/Debug/Auto.frmReporteAutosServicio.resources
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Auto.exe.config
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Auto.exe
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Auto.pdb
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.csproj.AssemblyReference.cache
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmAcercade.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmAgregarAuto.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmAgregarServicio.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmAgregarAutoServicio.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmConsultaAuto.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmConsultaAutoServicio.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmConsultaServicio.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmConsultaTodosAutoServicio.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmConsultaTodosDatos.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmConsultaTodoServicio.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmMenu.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmModificarAuto.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmModificarServicio.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmReporteAutosServicio.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.frmReportePorFecha.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.Properties.Resources.resources
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.csproj.GenerateResource.cache
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.csproj.CoreCompileInputs.cache
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.exe
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.pdb
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/BouncyCastle.Crypto.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.barcodes.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.commons.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.forms.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.io.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.kernel.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.layout.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.pdfa.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.sign.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.styledxmlparser.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.svg.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/LibreriaPDF.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.DependencyInjection.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Logging.Abstractions.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Logging.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Options.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Primitives.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Newtonsoft.Json.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/System.Buffers.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/System.Diagnostics.DiagnosticSource.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/System.Memory.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/System.Numerics.Vectors.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/System.Threading.Tasks.Extensions.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/System.ValueTuple.dll
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/BouncyCastle.Crypto.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.barcodes.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.commons.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.forms.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.io.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.kernel.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.layout.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.pdfa.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.sign.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.styledxmlparser.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/itext.svg.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.DependencyInjection.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Logging.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Logging.Abstractions.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Options.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Primitives.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/Newtonsoft.Json.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/System.Buffers.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/System.Diagnostics.DiagnosticSource.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/System.Memory.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/System.Numerics.Vectors.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/System.Threading.Tasks.Extensions.xml
+//VBOXSVR/Documents/Auto (1)/Auto/bin/Debug/System.ValueTuple.xml
+//VBOXSVR/Documents/Auto (1)/Auto/obj/Debug/Auto.csproj.CopyComplete
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Auto.exe.config
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Auto.exe
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Auto.pdb
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/BouncyCastle.Crypto.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.barcodes.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.commons.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.forms.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.io.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.kernel.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.layout.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.pdfa.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.sign.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.styledxmlparser.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.svg.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/LibreriaPDF.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.DependencyInjection.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Logging.Abstractions.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Logging.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Options.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Primitives.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Newtonsoft.Json.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/System.Buffers.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/System.Diagnostics.DiagnosticSource.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/System.Memory.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/System.Numerics.Vectors.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/System.Threading.Tasks.Extensions.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/System.ValueTuple.dll
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/BouncyCastle.Crypto.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.barcodes.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.commons.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.forms.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.io.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.kernel.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.layout.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.pdfa.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.sign.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.styledxmlparser.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/itext.svg.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.DependencyInjection.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Logging.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Logging.Abstractions.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Options.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Microsoft.Extensions.Primitives.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/Newtonsoft.Json.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/System.Buffers.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/System.Diagnostics.DiagnosticSource.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/System.Memory.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/System.Numerics.Vectors.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/System.Threading.Tasks.Extensions.xml
+/home/dell/Documents/Auto (1)/Auto/bin/Debug/System.ValueTuple.xml
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.csproj.AssemblyReference.cache
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmAcercade.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmAgregarAuto.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmAgregarServicio.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmAgregarAutoServicio.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmConsultaAuto.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmConsultaAutoServicio.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmConsultaServicio.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmConsultaTodosAutoServicio.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmConsultaTodosDatos.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmConsultaTodoServicio.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmMenu.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmModificarAuto.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmModificarServicio.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmReporteAutosServicio.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.frmReportePorFecha.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.Properties.Resources.resources
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.csproj.GenerateResource.cache
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.csproj.CoreCompileInputs.cache
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.csproj.CopyComplete
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.exe
+/home/dell/Documents/Auto (1)/Auto/obj/Debug/Auto.pdb
