@@ -1,16 +1,25 @@
 USE Northwind
 GO
 
+/*
+Procedimientos
+
+    Es como una función que recibe párametros y saca párametros
+*/
+
 
 /*
     1.- AGREGAR A LA TABLA CATEGORIES EL CAMPO TOTALPIEZAS, EL CUAL REPRESENTARÁ EL TOTAL 
-    DE PIEZAS VENDIDAS DE CADA CATEGORIA. CREAR UN PROCEDIMIENTO ALMACENADO QUE LLENE DICHO CAMPO.
+    DE PIEZAS VENDIDAS DE CADA CATEGORIA. 
+    
+    CREAR UN PROCEDIMIENTO ALMACENADO QUE LLENE DICHO CAMPO.
 */
+
 ALTER TABLE Categories ADD PiezasVendidas INT
 GO
 
 CREATE OR ALTER PROC sp_piezas AS
-BEGIN
+BEGIN -- Inicio
     DECLARE @AuxCategoria INT, @AuxTotal INT
 
     SELECT @AuxCategoria = MIN(CategoryID)
@@ -42,6 +51,7 @@ GO
 /*
     2.- SP QUE RECIBA LA CLAVE DEL EMPLEADO Y REGRESE POR RETORNO LA EDAD EXACTA DEL EMPLEADO.
 */
+-- OUTPUT -> Salida
 CREATE OR ALTER PROC sp_edad_exacta @EmpId INT, @EdadExacta INT OUTPUT AS
 BEGIN
     DECLARE @FechaNacimiento DATETIME
@@ -50,16 +60,19 @@ BEGIN
     FROM Employees 
     WHERE EmployeeID = @EmpId
 
-    SELECT @EdadExacta = DATEDIFF(YY, @FechaNacimiento, GETDATE())
+    SELECT @EdadExacta = DATEDIFF(YEAR, @FechaNacimiento, GETDATE())
+
     IF @FechaNacimiento > GETDATE()
         SELECT @EdadExacta = @EdadExacta - 1
 END
 GO
-
+-----------------------------------
 DECLARE @R INT
-EXEC sp_edad_exacta 1, @R OUTPUT
-SELECT EdadExacta = @R
 
+EXEC sp_edad_exacta 1, @R OUTPUT
+
+SELECT EdadExacta = @R
+-----------------------------------
 SELECT BirthDate
 FROM Employees
 GO
@@ -70,9 +83,19 @@ GO
     UN PARAMETRO CON EL NOMBRE DE TODOS LOS CLIENTES QUE COMPRARON ESE DIA Y OTRO PARAMETRO 
     CON LA LISTA DE LAS ORDENES REALIZADAS ESE DIA.
 */
+-- Entrada: Fecha
+-- Salida: NombreDeToso, OrdenesDelDia
 CREATE OR ALTER PROC sp_compras_por_fecha @Fecha DATE, @Clientes VARCHAR(500) OUTPUT, @Ordenes VARCHAR(500) OUTPUT AS
 BEGIN
     DECLARE @Aux INT
+
+
+    /*
+    10
+    3
+    11
+    4
+    */
 
     SELECT @Aux = MIN(OrderID)
     FROM Orders
@@ -82,16 +105,31 @@ BEGIN
 
     WHILE @Aux IS NOT NULL
     BEGIN
+        -- Juan, Pedro,
         SELECT @Clientes = @Clientes + c.CompanyName + ', ', @Ordenes = @Ordenes + CONVERT(VARCHAR(10), o.OrderID) + ', '
         FROM Orders o
         INNER JOIN Customers c ON o.CustomerID = c.CustomerID
         WHERE o.OrderID = @Aux
 
+        /*
+        10
+        3 
+        11 <----
+        4 
+        */
         SELECT @Aux = MIN(OrderID)
         FROM Orders
-        WHERE OrderDate = @Fecha AND @Aux < OrderID
+        WHERE OrderDate = @Fecha 
+        AND @Aux < OrderID
+        --    3  <    4
+        --    3  <    10
+        --    11 <  X       aux = null
+        -- 
     END
-
+    
+    -- '3, 4, 10, 11'
+    -- 'Juan, Pedro'
+    -- SUBSTRING(string, inicio, final - 1)
     SELECT @Clientes = SUBSTRING(@Clientes, 1, LEN(@Clientes) - 1),
     @Ordenes = SUBSTRING(@Ordenes, 1, LEN(@Ordenes) - 1)
 END
@@ -108,9 +146,13 @@ GO
     4.- PROCEDIMIENTO ALMACENADO QUE REGRESE UNA TABLA CON LA FECHA Y LOS NOMBRES DE LOS 
     CLIENTES QUE COMPRARON ESE DÍA.
 */
+-- CREATE OR ALTER PROC sp_edad_exacta @EmpId INT, @EdadExacta INT OUTPUT AS
 CREATE OR ALTER PROC sp_compras AS
 BEGIN
+    -- 1. Ir iterando las fechas
+    -- 2. Con la fecha ir iterando los ordenes
     CREATE TABLE #Salida(Fecha DATETIME, Nombre VARCHAR(500))
+
     DECLARE @Fecha DATE
 
     SELECT @Fecha = MIN(OrderDate) 
@@ -158,7 +200,9 @@ GO
 /*
     5.- SP QUE RECIBA UN AÑO Y REGRESE COMO PARAMETRO DE SALIDA LA CLAVE DEL ARTICULO QUE MAS SE VENDIO ESE AÑO Y CANTIDAD DE PIEZAS VENDIDAS DE ESE PRODUCTO EN ESE AÑO.
 */
-CREATE OR ALTER PROC sp_articulo_mas_vendido @Anio INT, @ArticuloId INT OUTPUT, @Cantidad INT OUTPUT AS
+-- Entrada: Año
+-- Salida: ClaveArticulo, CantidadDePiezas
+CREATE OR ALTER PROC sp_articulo_mas_vendido @Anio INT, @ArticuloId INT OUTPUT, @Cantidad INT OUTPUT AS -- ES
 BEGIN
     SELECT TOP 1 @ArticuloId = od.ProductID, @Cantidad = SUM(od.Quantity)
     FROM [Order Details] od
@@ -168,7 +212,7 @@ BEGIN
     ORDER BY SUM(od.Quantity) DESC
 END
 GO
-
+--------------------------------------
 DECLARE @R1 INT, @R2 INT
 EXEC sp_articulo_mas_vendido 1996, @R1 OUTPUT, @R2 OUTPUT
 
@@ -179,10 +223,14 @@ GO
 /*
     6.- SP QUE RECIBA LA CLAVE DEL EMPLEADO Y REGRESE COMO PARAMETRO DE SALIDA TODOS LOS NOMBRES DE LOS TERRITORIOS QUE ATIENDEN EL EMPLEADO.
 */
+-- Entrada; ClaveEmpleado
+-- Salida: NombreDeTerritorios
 CREATE OR ALTER PROC sp_territorios_empleado @EmpleadoId INT, @Territorios NVARCHAR(300) OUTPUT AS
-BEGIN
+BEGIN -- Inicio
     DECLARE @Aux INT
-    SELECT @Territorios = ''
+    SELECT @Territorios = '' -- o puede tener cosas o puede ser null
+    
+    -- Empleados -> TerritoriosEmpleados -> Territorios
 
     SELECT @Aux = MIN(t.TerritoryID)
     FROM EmployeeTerritories et
@@ -190,27 +238,33 @@ BEGIN
     WHERE et.EmployeeID = @EmpleadoId
 
     WHILE @Aux IS NOT NULL
-    BEGIN
+    BEGIN -- Inicio
+    -- TRIM -> Es para quitar los espacios de los string
+    -- 'Texto Cualquiera'
         SELECT @Territorios = @Territorios + TRIM(TerritoryDescription) + ', '
         FROM Territories
         WHERE TerritoryID = @Aux
-
+-- Es un CHAR(10)
+-- 'Hola      '
         SELECT @Aux = MIN(t.TerritoryID)
         FROM EmployeeTerritories et
         INNER JOIN Territories t ON et.TerritoryID = t.TerritoryID
         WHERE et.EmployeeID = @EmpleadoId
         AND @Aux < t.TerritoryID
-    END
+    END -- Fin
 
+    -- Hola
+    -- Hola
+    -- SUBSTRING(Hola, 1, 4 + 1)
+    -- 1, 2, 3
     SELECT @Territorios = SUBSTRING(@Territorios, 1, LEN(@Territorios) - 1)
-END 
+END -- Fin
 GO
 
 DECLARE @R NVARCHAR(300)
 
 EXEC sp_territorios_empleado 2, @R OUTPUT
-SELECT Territorios = @R
-SELECT * FROM EmployeeTerritories
+SELECT @R
 GO
 
 
@@ -239,7 +293,7 @@ BEGIN
         FROM Employees
         WHERE EmployeeID = @AuxEmpId
 
-        SELECT @AuxJefeId = ReportsTo
+        SELECT @AuxJefeId = ReportsTo -- <- Jefe
         FROM Employees
         WHERE EmployeeID = @AuxEmpId
 
@@ -256,17 +310,18 @@ BEGIN
         END
         
         SELECT @AuxNombreJefes = SUBSTRING(@AuxNombreJefes, 1, LEN(@AuxNombreJefes) - 1)
+
         INSERT INTO #Aux VALUES (@AuxNombreEmp, @AuxNombreJefes, @AuxUltimoJefe)
 
         SELECT @AuxEmpId = MIN(EmployeeID)
         FROM Employees 
         WHERE EmployeeID > @AuxEmpId
+        -- @AuxEmpId < EmployeeID
 
         SELECT @AuxNombreJefes = '', @AuxUltimoJefe = '', @AuxNombreEmp = ''
     END
 
-    SELECT *
-    FROM #Aux
+    SELECT * FROM #Aux
 END
 GO
 

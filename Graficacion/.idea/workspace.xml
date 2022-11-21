@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b2db3ea-44b4-4fe8-ada8-44257d056345" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Simulacion/AgujaDeBufon/AgujaBuffon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Simulacion/Consulta/Consulta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Simulacion/Dardos/Dardos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Simulacion/Licencias/Licencias.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Simulacion/MonedaDado/MonedaDado.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simulacion/Borracho/Borracho.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simulacion/Examen/Examen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Topicos/src/simulacion/BarajaSave.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TallerBdD/U5 Tarea Procedimientos.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../TallerBdD/U5 Tarea Procedimientos.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TallerBdD/Procedimientos1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TallerBdD/Procedimientos2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TallerBdD/Triggers/Apunte.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../TallerBdD/Triggers/Apunte.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TallerBdD/U5 Tarea Procedimientos.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TallerBdD/sp edad exacta.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,17 +46,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/dell/dev/Universidad/Graficacion/src",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dell/dev/Universidad/Graficacion/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -63,7 +65,7 @@
       <recent name="C:\Users\Sebastian\IdeaProjects\Graficacion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.Examen">
     <configuration name="Aeropuerto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aeropuerto" />
       <module name="Graficacion" />
@@ -78,8 +80,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Examen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examen" />
+      <module name="Graficacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Examen" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Aeropuerto" />
       </list>
@@ -116,6 +126,7 @@
       <workItem from="1649450618254" duration="5703000" />
       <workItem from="1649553892904" duration="830000" />
       <workItem from="1666754795787" duration="980000" />
+      <workItem from="1667601397633" duration="2266000" />
     </task>
     <servers />
   </component>
