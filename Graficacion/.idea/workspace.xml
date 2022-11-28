@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b2db3ea-44b4-4fe8-ada8-44257d056345" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Simulacion/Borracho/Borracho.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Simulacion/Examen/Examen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Topicos/src/simulacion/BarajaSave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simulacion/Tinas/Tinas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TallerBdD/Procedimientos1.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TallerBdD/Procedimientos2.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TallerBdD/Triggers/Apunte.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../TallerBdD/Triggers/Apunte.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TallerBdD/U5 Tarea Procedimientos.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TallerBdD/sp edad exacta.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +57,7 @@
       <recent name="C:\Users\Sebastian\IdeaProjects\Graficacion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Examen">
+  <component name="RunManager" selected="Application.Tinas">
     <configuration name="Aeropuerto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aeropuerto" />
       <module name="Graficacion" />
@@ -87,8 +79,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tinas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tinas" />
+      <module name="Graficacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tinas" />
         <item itemvalue="Application.Examen" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Aeropuerto" />
@@ -127,6 +127,7 @@
       <workItem from="1649553892904" duration="830000" />
       <workItem from="1666754795787" duration="980000" />
       <workItem from="1667601397633" duration="2266000" />
+      <workItem from="1669137488368" duration="337000" />
     </task>
     <servers />
   </component>
