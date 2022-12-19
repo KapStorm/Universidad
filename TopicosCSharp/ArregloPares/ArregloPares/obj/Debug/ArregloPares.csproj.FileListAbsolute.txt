@@ -4,3 +4,10 @@
 /home/dell/dev/Universidad/TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.csproj.CoreCompileInputs.cache
 /home/dell/dev/Universidad/TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.exe
 /home/dell/dev/Universidad/TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.pdb
+C:\Users\Kappa\dev\Universidad\TopicosCSharp\ArregloPares\ArregloPares\bin\Debug\ArregloPares.exe
+C:\Users\Kappa\dev\Universidad\TopicosCSharp\ArregloPares\ArregloPares\bin\Debug\ArregloPares.pdb
+C:\Users\Kappa\dev\Universidad\TopicosCSharp\ArregloPares\ArregloPares\obj\Debug\ArregloPares.csproj.AssemblyReference.cache
+C:\Users\Kappa\dev\Universidad\TopicosCSharp\ArregloPares\ArregloPares\obj\Debug\ArregloPares.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kappa\dev\Universidad\TopicosCSharp\ArregloPares\ArregloPares\obj\Debug\ArregloPares.csproj.CoreCompileInputs.cache
+C:\Users\Kappa\dev\Universidad\TopicosCSharp\ArregloPares\ArregloPares\obj\Debug\ArregloPares.exe
+C:\Users\Kappa\dev\Universidad\TopicosCSharp\ArregloPares\ArregloPares\obj\Debug\ArregloPares.pdb

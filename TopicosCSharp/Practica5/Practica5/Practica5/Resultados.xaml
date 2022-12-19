@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica5.Resultados">
+    <ContentPage.Content>
+        <StackLayout Padding="30">
+            <Label x:Name="lblPerros"
+                   FontSize="Medium"
+                   TextColor="Black"/>
+            <Label x:Name="lblGatos"
+                   FontSize="Medium"
+                   TextColor="Black"/>
+            <Label x:Name="lblTortugas"
+                   FontSize="Medium"
+                   TextColor="Black"/>
+            <Label x:Name="lblConejos"
+                   FontSize="Medium"
+                   TextColor="Black"/>
+
+            <Label x:Name="lblGanador"
+                   FontSize="Medium"
+                   TextColor="Black"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

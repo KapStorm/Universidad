@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Fonts\DaddyTime.ttf" />
+    <None Remove="Assets\Fonts\HeavyData.ttf" />
+    <None Remove="Assets\Fonts\JetBrains.ttf" />
+    <None Remove="Assets\Fonts\Monoid.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\Fonts\DaddyTime.ttf" />
+    <EmbeddedResource Include="Assets\Fonts\HeavyData.ttf" />
+    <EmbeddedResource Include="Assets\Fonts\JetBrains.ttf" />
+    <EmbeddedResource Include="Assets\Fonts\Monoid.ttf" />
+  </ItemGroup>
+</Project>

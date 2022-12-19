@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica2.MainPage">
+
+    <StackLayout>
+        <Label Text="Nombre"/>
+        <Entry x:Name="entryNombre"/>
+        
+        <Label Text="Edad"/>
+        <Entry x:Name="entryEdad" 
+               Keyboard="Numeric"/>
+        
+        <Button x:Name="btnVerificar" 
+                Text="Verificar" 
+                Clicked="btnVerificar_Clicked"/>
+        <Label x:Name="salida"/>
+    </StackLayout>
+
+</ContentPage>

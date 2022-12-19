@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica6.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="12" CornerRadius="0">
+            <Label Text="Biblioteca" 
+                   HorizontalTextAlignment="Center" 
+                   TextColor="White" 
+                   FontSize="36"/>
+        </Frame>
+
+        <ListView x:Name="lstVPersonajes" HasUnevenRows="True"
+                  SelectionMode="None" ItemTapped="lstVPersonajes_ItemTapped">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal"
+                                     Padding="10">
+                            <Image Source="{Binding ImgURL}"
+                                   HeightRequest="200"
+                                   Aspect="AspectFill"/>
+
+                            <StackLayout>
+                                <Label Text="{Binding Nombre}"
+                                       FontSize="Title"
+                                       TextColor="Black"/>
+
+                                <Label Text="{Binding PrecioConvertido}"
+                                       FontSize="Small"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Button x:Name="btnCarrito"
+                Text="Carrito"
+                Clicked="btnCarrito_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

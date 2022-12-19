@@ -5,8 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b2db3ea-44b4-4fe8-ada8-44257d056345" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Simulacion/Tinas/Tinas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simulacion/Cajero/CajeroATM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simulacion/PruebasEstadisticas/Chi2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simulacion/PruebasEstadisticas/DistanciaHuecos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simulacion/PruebasEstadisticas/Kolmogorov.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simulacion/PruebasEstadisticas/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simulacion/PruebasEstadisticas/Poker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simulacion/PruebasEstadisticas/Series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Graficacion/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Graficacion/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TallerBdD/ASDASD.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../TallerBdD/ASDASD.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/bin/Debug/ArregloPares.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/bin/Debug/ArregloPares.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/bin/Debug/ArregloPares.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/bin/Debug/ArregloPares.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/ArregloPares/ArregloPares/obj/Debug/ArregloPares.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/SQL/.vs/Choferes/FileContentIndex/462ae68a-15c2-472b-9720-7bdb5fb70bef.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/SQL/.vs/Choferes/FileContentIndex/75ea1c99-51b6-4998-8b53-4d66b116b205.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/SQL/.vs/Choferes/FileContentIndex/96a7f9e6-dde6-4716-8565-db674f2190ca.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/SQL/.vs/Choferes/FileContentIndex/c01afefc-e8f0-4b2b-9d53-90c605d7c38c.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/SQL/.vs/Choferes/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/SQL/.vs/Choferes/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/SQL/Datos/obj/Debug/Datos.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/SQL/Datos/obj/Debug/Datos.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/SQL/Datos/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/SQL/Datos/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/SQL/Entidades/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/SQL/Entidades/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/SQL/Entidades/obj/Debug/Entidades.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/SQL/Entidades/obj/Debug/Entidades.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/SQL/Negocio/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/SQL/Negocio/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/SQL/Negocio/obj/Debug/Negocio.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/SQL/Negocio/obj/Debug/Negocio.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/SQL/SQL/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/SQL/SQL/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TopicosCSharp/SQL/SQL/obj/Debug/Front.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TopicosCSharp/SQL/SQL/obj/Debug/Front.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +73,16 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/dell/dev/Universidad/Graficacion/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kappa/dev/Universidad/Graficacion&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -54,10 +90,11 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kappa\dev\Universidad\Graficacion\src" />
       <recent name="C:\Users\Sebastian\IdeaProjects\Graficacion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tinas">
+  <component name="RunManager" selected="Application.ProyectoFinal">
     <configuration name="Aeropuerto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aeropuerto" />
       <module name="Graficacion" />
@@ -79,6 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProyectoFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProyectoFinal" />
+      <module name="Graficacion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tinas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tinas" />
       <module name="Graficacion" />
@@ -88,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProyectoFinal" />
         <item itemvalue="Application.Tinas" />
         <item itemvalue="Application.Examen" />
         <item itemvalue="Application.App" />
@@ -128,6 +173,13 @@
       <workItem from="1666754795787" duration="980000" />
       <workItem from="1667601397633" duration="2266000" />
       <workItem from="1669137488368" duration="337000" />
+      <workItem from="1670432824524" duration="1028000" />
+      <workItem from="1670482748188" duration="817000" />
+      <workItem from="1670513023700" duration="332000" />
+      <workItem from="1670530795082" duration="335000" />
+      <workItem from="1671058164360" duration="31000" />
+      <workItem from="1671059643565" duration="320000" />
+      <workItem from="1671060374761" duration="102000" />
     </task>
     <servers />
   </component>

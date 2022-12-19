@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica6.Front.PageCarrito">
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="lstVCarrito" HasUnevenRows="True"
+                  SelectionMode="None">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal"
+                                     Padding="10">
+                                <Image Source="{Binding Item2.Key.ImgURL}"
+                                   HeightRequest="200"
+                                   Aspect="AspectFill"/>
+
+                                <StackLayout>
+                                    <Label Text="{Binding Item2.Key.Nombre}"
+                                       FontSize="Title"
+                                       TextColor="Black"/>
+
+                                    <Label>
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span Text="Cantidad: "/>
+                                                <Span Text="{Binding Item2.Value}"/>
+                                                <Span Text=" pzas."/>
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+                                    
+                                    <Label FontSize="Small"
+                                           TextColor="Black">
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span Text="Total: $"/>
+                                                <Span Text="{Binding Item1}"/>
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Label Padding="20"
+                   TextColor="Black"
+                   FontSize="Large">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Total: $"/>
+                        <Span x:Name="lblTotal"/>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

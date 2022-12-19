@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace ArregloPares
 {
@@ -21,7 +22,7 @@ namespace ArregloPares
         public static void Main(string[] args)
         {
             // Instancia de la clase y ejecucion
-            new Program().Ejecutar();
+            Console.WriteLine(Directory.GetCurrentDirectory());
             Console.ReadKey();
         }
 

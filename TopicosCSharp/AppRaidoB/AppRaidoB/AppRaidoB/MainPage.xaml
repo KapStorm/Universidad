@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppRaidoB.MainPage">
+
+    <StackLayout RadioButtonGroup.GroupName="mascotas">
+        <Label Text="¿Cuál mascota prefieres?"/>
+        
+        <RadioButton Content="Perro" GroupName="mascotas"/>
+        <RadioButton Content="Gato" GroupName="mascotas"/>
+        <RadioButton Content="Tortuga" GroupName="mascotas"/>
+        <RadioButton Content="Pez" GroupName="mascotas"/>
+
+        <Button Text="Imprimir"
+                x:Name="btnImprimir" 
+                Clicked="btnImprimir_Clicked"/>
+        <Label x:Name="Impresion"/>
+    </StackLayout>
+
+</ContentPage>

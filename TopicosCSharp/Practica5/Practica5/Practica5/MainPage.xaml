@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica5.MainPage">
+
+    <StackLayout Padding="30">
+        <Label Text="Seleccione su mascota preferida"
+               FontSize="Title"
+               TextColor="Black"/>
+        
+        <RadioButton Content="Perro"
+                     CheckedChanged="RadioButton_CheckedChanged"
+                     Value="0"
+                     IsChecked="True"/>
+        
+        <RadioButton Content="Gato"
+                     CheckedChanged="RadioButton_CheckedChanged"
+                     Value="1"/>
+        
+        <RadioButton Content="Tortuga"
+                     CheckedChanged="RadioButton_CheckedChanged"
+                     Value="2"/>
+        
+        <RadioButton Content="Conejo"
+                     CheckedChanged="RadioButton_CheckedChanged"
+                     Value="3"/>
+        
+        <Label FontSize="Subtitle"
+               TextColor="Black">
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="Ha seleccionado: "/>
+                    <Span x:Name="mascota"/>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+
+        <Button x:Name="btnEnviar"
+                Text="Enviar"
+                Clicked="btnEnviar_Clicked"/>
+        <Button x:Name="btnResultados"
+                Text="Checar resultados"
+                Clicked="btnResultados_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

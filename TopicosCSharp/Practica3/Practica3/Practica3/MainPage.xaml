@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica3.MainPage">
+
+     <!--
+        El layout Grid es una estructura la cual organiza los componentes
+        en filas y columnas, esto para llevar un mejor orden
+     -->
+    <Grid>
+        <!-- 
+            Para los Grid es necesario agregarle las propiedades
+            Grid.Column y Grid.Row y asignarles un valor para poder
+            usar correctamente el Grid
+        
+            Si no se les coloca estas propiedades por default
+            tendrán un valor de 0
+        -->
+        <!--
+            Se puede definir propiedades de las columntas y filas, mediante
+            los componentes 
+        
+            <Grid.RowDefinitions>
+                <RowDefinition Height = ""
+                               Width = ""/>
+            </Grid.RowDefinitions>
+        
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Height = ""
+                                  Width = ""/>
+            </Grid.ColumnDefinitions>
+        -->
+        <Frame Grid.Row="0"
+               Grid.Column="0" 
+               BackgroundColor="Aqua"/>
+        <Label Grid.Row="0"
+               Grid.Column="1"
+               Text="SEBASTIAN" 
+               BackgroundColor="Black"
+               TextColor="White"
+               FontSize="Title"/>
+        <Label Grid.Column="2"
+               Text="ARELLANES"
+               BackgroundColor="Black"
+               TextColor="Wheat"
+               FontSize="Title"/>
+        <Frame Grid.Row="1"
+               Grid.Column="0"
+               BackgroundColor="Green"></Frame>
+        <Label Grid.Row="1"
+               Grid.Column="1"
+               Text="21170012"
+               FontSize="Title"/>
+        <Frame Grid.Row="1"
+               Grid.Column="2"
+               BackgroundColor="DarkCyan"/>
+    </Grid>
+
+</ContentPage>

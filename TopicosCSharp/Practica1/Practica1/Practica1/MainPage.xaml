@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica1.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#CCC">
+            <Label Text="Sebastián Arellanes Beltrán"
+                   FontFamily="JetBrains"
+                   FontSize="Title"/>
+        </Frame>
+        <Frame BackgroundColor="#333">
+            <Label Text="21170012"
+                   TextColor="White"
+                   FontFamily="DaddyTime"
+                   FontSize="Subtitle"/>
+        </Frame>
+        <Frame BackgroundColor="#aea">
+            <Label Text="4to semestre"
+                   FontFamily="HeavyData"
+                   FontSize="Large"/>
+        </Frame>
+        <Frame BackgroundColor="#9f0">
+            <Label Text="Ing. en Sistemas Computacionales"
+                   FontFamily="Monoid"
+                   FontSize="Medium"/>
+        </Frame>
+    </StackLayout>
+
+</ContentPage>
